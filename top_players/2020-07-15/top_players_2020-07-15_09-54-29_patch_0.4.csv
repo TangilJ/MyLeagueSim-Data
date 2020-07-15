@@ -1,0 +1,101 @@
+Rank number,Role,Player name,Rank,Win rate(%),Wins / losses,Coach
+#1,Jungle,Test2,Challenger - 30 LP,71.1,59 / 24,test
+#2,Jungle,time,Challenger - 19 LP,67.5,56 / 27,schlafen
+#3,Jungle,Xyras,Diamond I - 38 LP,60.8,62 / 40,Jungler1337
+#4,Jungle,Jinxnator,Diamond I - 37 LP,59.8,101 / 68,Jinxnator
+#5,Mid,Galio,Diamond I - 9 LP,56.5,83 / 64,UNR Tokyo
+#6,ADC,Leopan,Diamond I - 8 LP,63.0,121 / 71,Anbeeld
+#7,Top,Raleigh Obelisk,Diamond I - 3 LP,54.8,80 / 66,Sinker
+#8,Support,Duckling,Diamond II - 98 LP,58.3,67 / 48,Duckling
+#9,Top,RNG Letme,Diamond II - 93 LP,57.0,86 / 65,LPLAhri
+#10,Jungle,Pyosik,Diamond II - 93 LP,60.1,110 / 73,TheStriker9
+#11,Jungle,Poppey,Diamond II - 79 LP,55.8,86 / 68,NAVI
+#12,Jungle,Zevton,Diamond II - 73 LP,57.0,65 / 49,polop900
+#13,ADC,Deft,Diamond II - 67 LP,53.4,94 / 82,TheStriker9
+#14,Mid,creative mind,Diamond II - 65 LP,52.9,83 / 74,cabula
+#15,ADC,Sinon,Diamond II - 64 LP,56.8,83 / 63,Trindor
+#16,Mid,Phantom,Diamond II - 59 LP,57.5,103 / 76,Kyzent
+#17,Top,SS Flandre,Diamond II - 58 LP,54.1,86 / 73,RNGFirefox
+#18,Mid,NULL,Diamond II - 50 LP,55.8,77 / 61,Alion
+#19,Top,Salsa,Diamond II - 49 LP,59.1,114 / 79,YungYiga
+#20,Top,Ben Dover,Diamond II - 49 LP,55.3,63 / 51,Hjornet
+#21,Top,Destructoid,Diamond II - 44 LP,57.8,119 / 87,YoloMedic
+#22,Mid,Arteros,Diamond II - 41 LP,53.3,105 / 92,Anbeeld
+#23,Support,FPX Crisp,Diamond II - 40 LP,56.0,107 / 84,LPLAhri
+#24,Top,DoinB,Diamond II - 37 LP,53.7,66 / 57,LordArtos
+#25,Mid,PepeCool,Diamond II - 36 LP,54.2,96 / 81,LS
+#26,Support,Kapp Wampie,Diamond II - 36 LP,53.9,69 / 59,Plankuaa
+#27,ADC,CoolBroDenis,Diamond II - 35 LP,56.8,137 / 104,JMENDOZA
+#28,Jungle,MexicanPidgeon,Diamond II - 34 LP,55.6,69 / 55,LumiFumi
+#29,Support,Emwues24,Diamond II - 30 LP,59.0,108 / 75,Jinxnator
+#30,Jungle,Superb,Diamond II - 28 LP,57.5,61 / 45,Spezza
+#31,Top,AJDG Light,Diamond II - 25 LP,54.2,64 / 54,Lightandhope
+#32,ADC,TES Jackeylove,Diamond II - 24 LP,55.1,102 / 83,LPLAhri
+#33,ADC,T1 T1,Diamond II - 21 LP,57.9,95 / 69,Soraka
+#34,Support,Deontic,Diamond II - 20 LP,52.9,74 / 66,TheRelic4411
+#35,Top,HAHAHAHAHAHAXD,Diamond II - 19 LP,55.4,67 / 54,wiksonix
+#36,ADC,Bacon,Diamond II - 12 LP,52.8,103 / 92,YungYiga
+#37,Mid,MidBot,Diamond II - 12 LP,55.5,66 / 53,TangilBOT
+#38,ADC,DoubleDouble,Diamond II - 10 LP,60.6,94 / 61,Player2225
+#39,Jungle,Bibi,Diamond II - 8 LP,53.7,79 / 68,Troeton
+#40,Support,E-girl,Diamond II - 4 LP,56.4,93 / 72,Dayspring
+#41,ADC,Goblin,Diamond II - 1 LP,57.2,107 / 80,Ghacobe
+#42,ADC,ADCarry,Diamond III - 99 LP,55.4,87 / 70,Schingi
+#43,Jungle,HLE Viper,Diamond III - 98 LP,55.7,68 / 54,Tokyo Smurfer
+#44,Top,Rywanna,Diamond III - 95 LP,58.0,101 / 73,Kythaela
+#45,ADC,BotBot,Diamond III - 95 LP,50.3,82 / 81,TangilBOT
+#46,Jungle,JMENDOZA,Diamond III - 93 LP,54.4,111 / 93,JMENDOZA
+#47,Support,Keria,Diamond III - 89 LP,56.0,116 / 91,TheStriker9
+#48,Mid,Nea,Diamond III - 87 LP,57.6,72 / 53,TheRelic4411
+#49,Mid,BOOCAUWMOO,Diamond III - 84 LP,52.0,78 / 72,BooCauwMoo
+#50,Mid,Totoro the duck,Diamond III - 82 LP,51.7,78 / 73,Kuury
+#51,Jungle,Blaze,Diamond III - 81 LP,55.7,68 / 54,Hit_Critical
+#52,Support,Aqua,Diamond III - 81 LP,52.8,86 / 77,Trindor
+#53,Mid,RunningDown,Diamond III - 80 LP,56.4,133 / 103,Freezy
+#54,Top,Amouranth,Diamond III - 78 LP,51.5,88 / 83,Simp
+#55,Support,flaree,Diamond III - 77 LP,56.6,69 / 53,sanchesmemo
+#56,Mid,strawberry frog,Diamond III - 74 LP,54.5,72 / 60,annauwumarie
+#57,Mid,Seirilyvia,Diamond III - 73 LP,54.9,100 / 82,Kythaela
+#58,Top,SmackyB,Diamond III - 69 LP,56.0,121 / 95,Byumbi
+#59,Top,Zuko,Diamond III - 68 LP,51.5,88 / 83,Lior
+#60,Jungle,YokoOno,Diamond III - 67 LP,54.9,112 / 92,Freezy
+#61,Support,Nite,Diamond III - 65 LP,51.1,71 / 68,azure43
+#62,Top,xxaznpuppy32xx,Diamond III - 64 LP,55.0,83 / 68,GamerGirls
+#63,ADC,fulltag,Diamond III - 64 LP,51.5,69 / 65,Tangil
+#64,ADC,Char,Diamond III - 61 LP,51.1,67 / 64,azure43
+#65,Support,Rashid,Diamond III - 60 LP,57.1,105 / 79,Freezy
+#66,Mid,do you have dad,Diamond III - 56 LP,53.2,74 / 65,schlafen2
+#67,Support,R.Leg of Cauw,Diamond III - 54 LP,53.4,63 / 55,BooCauwMoo
+#68,Support,Soundboard,Diamond III - 51 LP,52.3,58 / 53,Sinker
+#69,ADC,Vortex_c4,Diamond III - 51 LP,55.7,97 / 77,LumiFumi
+#70,Mid,Chovy,Diamond III - 47 LP,55.4,102 / 82,TheStriker9
+#71,Top,Top,Diamond III - 46 LP,48.9,68 / 71,jksad
+#72,ADC,Kongen,Diamond III - 44 LP,54.7,70 / 58,Hjornet
+#73,Mid,BottleCaps,Diamond III - 43 LP,55.0,82 / 67,Phost
+#74,ADC,Sylmarae,Diamond III - 42 LP,55.3,99 / 80,Kythaela
+#75,Top,Doran,Diamond III - 40 LP,55.0,105 / 86,TheStriker9
+#76,Support,Hisher,Diamond III - 39 LP,53.1,76 / 67,polop900
+#77,Jungle,Pheoldre,Diamond III - 29 LP,52.0,78 / 72,Kythaela
+#78,Jungle,strawberry cat,Diamond III - 28 LP,51.5,69 / 65,annauwumarie
+#79,ADC,Rio Sonogami,Diamond III - 27 LP,57.1,64 / 48,Ruler Rinne
+#80,ADC,RNG Uzi,Diamond III - 24 LP,52.9,74 / 66,Tokyo Smurfer
+#81,Support,Embrace,Diamond III - 21 LP,54.1,106 / 90,JMENDOZA
+#82,Top,Noobnoodle,Diamond III - 18 LP,54.5,67 / 56,Jungler1337
+#83,Support,isk,Diamond III - 16 LP,53.8,57 / 49,Iskover
+#84,Top,Kaleid,Diamond III - 15 LP,56.2,104 / 81,JMENDOZA
+#85,ADC,Krono,Diamond III - 15 LP,53.1,51 / 45,Kronossaurus
+#86,Support,Tiriana,Diamond III - 13 LP,54.7,81 / 67,Kythaela
+#87,Mid,Hai,Diamond III - 11 LP,58.4,66 / 47,Chowdeer
+#88,Mid,Flame,Diamond III - 10 LP,47.6,59 / 65,Hit_Critical
+#89,Jungle,EDG Clearlove7,Diamond III - 5 LP,54.0,74 / 63,RNGFirefox
+#90,ADC,CNoFlaw,Diamond III - 3 LP,60.7,130 / 84,AnFun
+#91,Top,MJay,Diamond IV - 97 LP,49.6,61 / 62,Tangil
+#92,Top,TopBot,Diamond IV - 95 LP,56.1,69 / 54,TangilBOT
+#93,Jungle,jekedeke,Diamond IV - 92 LP,52.3,67 / 61,sauce
+#94,Top,Pepega,Diamond IV - 92 LP,51.3,80 / 76,LS
+#95,Mid,Lucius ,Diamond IV - 90 LP,49.7,71 / 72,Jungler1337
+#96,Jungle,GG Bekhali,Diamond IV - 86 LP,50.7,75 / 73,Mac
+#97,Jungle,apple,Diamond IV - 86 LP,58.5,76 / 54,cabula
+#98,Support,Fuglen,Diamond IV - 83 LP,51.3,77 / 73,Hjornet
+#99,Mid,I like trains,Diamond IV - 82 LP,54.5,55 / 46,Foxxo
+#100,Jungle,Topener,Diamond IV - 78 LP,50.0,98 / 98,Byumbi
