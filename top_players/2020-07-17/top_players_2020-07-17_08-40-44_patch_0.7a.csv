@@ -1,0 +1,101 @@
+Rank number,Role,Player name,Rank,Win rate(%),Wins / losses,Coach
+#1,ADC,T1 T1,Challenger - 395 LP,77.0,94 / 28,Soraka
+#2,Top,Salsa,Challenger - 159 LP,63.4,192 / 111,YungYiga
+#3,ADC,BöllerBusch,Challenger - 114 LP,66.2,133 / 68,Jungler1337
+#4,ADC,Kadlin,Challenger - 109 LP,63.6,182 / 104,Jinxnator
+#5,Mid,Arteros,Challenger - 105 LP,64.9,155 / 84,Anbeeld
+#6,Jungle,Poppey,Challenger - 79 LP,63.5,176 / 101,NAVI
+#7,Jungle,Ceasarna,Challenger - 22 LP,60.2,153 / 101,iampvm
+#8,Support,Test5,Diamond I - 77 LP,55.7,180 / 143,test
+#9,Jungle,MexicanPidgeon,Diamond I - 46 LP,56.4,167 / 129,LumiFumi
+#10,Support,Ex5 Drohne,Diamond I - 44 LP,54.3,169 / 142,ExiledLP
+#11,Mid,MidBot,Diamond I - 38 LP,57.9,114 / 83,TangilBOT
+#12,Mid,kittyperry,Diamond I - 31 LP,54.8,159 / 131,GamerGirls
+#13,Mid,Salt,Diamond I - 31 LP,58.4,174 / 124,JMENDOZA
+#14,Top,DoinB,Diamond I - 29 LP,56.2,172 / 134,LordArtos
+#15,ADC,Jotaro Kujo,Diamond I - 21 LP,57.0,139 / 105,Ithirul
+#16,Support,Tratz,Diamond I - 20 LP,54.6,149 / 124,Tangil
+#17,Mid,BottleCaps,Diamond I - 16 LP,57.5,134 / 99,Phost
+#18,Jungle,Sparrow,Diamond I - 15 LP,54.8,136 / 112,Anbeeld
+#19,Jungle,EDG Clearlove7,Diamond I - 14 LP,58.9,198 / 138,RNGFirefox
+#20,Top,SS Flandre,Diamond I - 11 LP,53.6,150 / 130,RNGFirefox
+#21,ADC,CoolBroDenis,Diamond I - 10 LP,51.5,153 / 144,JMENDOZA
+#22,Jungle,Jinxnator,Diamond II - 98 LP,58.1,161 / 116,Jinxnator
+#23,Support,Katara,Diamond II - 95 LP,54.2,174 / 147,Lior
+#24,Top,Dumbass,Diamond II - 93 LP,58.2,138 / 99,Key
+#25,Top,Always Splits,Diamond II - 93 LP,61.1,110 / 70,Dayspring
+#26,Jungle,Superb,Diamond II - 92 LP,55.0,127 / 104,Spezza
+#27,Mid,creative mind,Diamond II - 92 LP,57.1,137 / 103,cabula
+#28,Jungle,Pyosik,Diamond II - 88 LP,54.6,167 / 139,TheStriker9
+#29,Support,SuppBot,Diamond II - 87 LP,54.8,136 / 112,TangilBOT
+#30,Jungle,110110010011,Diamond II - 85 LP,54.4,117 / 98,110110010011
+#31,Jungle,Blaze,Diamond II - 80 LP,56.3,103 / 80,Hit_Critical
+#32,Top,Amouranth,Diamond II - 79 LP,52.9,175 / 156,Simp
+#33,ADC,DoubleDouble,Diamond II - 76 LP,54.1,165 / 140,Player2225
+#34,Top,Leonidas,Diamond II - 75 LP,59.6,140 / 95,Freezy
+#35,Mid,Flame,Diamond II - 74 LP,55.3,109 / 88,Hit_Critical
+#36,Top,Kritz,Diamond II - 72 LP,62.6,122 / 73,polop900
+#37,ADC,AJDG Angel,Diamond II - 68 LP,55.9,132 / 104,Lightandhope
+#38,Support,E-girl,Diamond II - 67 LP,54.6,118 / 98,Dayspring
+#39,ADC,Uma Jan monkaS,Diamond II - 63 LP,59.3,131 / 90,Phost
+#40,Mid,Frimmy23,Diamond II - 59 LP,58.5,223 / 158,YoloMedic
+#41,Mid,AJDG Life,Diamond II - 59 LP,53.8,133 / 114,Lightandhope
+#42,Top,Ezio,Diamond II - 56 LP,61.0,164 / 105,TexeQ
+#43,Mid,Byumbert,Diamond II - 55 LP,51.5,157 / 148,Byumbi
+#44,Jungle,Test2,Diamond II - 55 LP,53.9,167 / 143,test
+#45,Jungle,BlaberSauce,Diamond II - 54 LP,60.8,107 / 69,FranklinTime
+#46,ADC,TES Jackeylove,Diamond II - 53 LP,50.9,190 / 183,LPLAhri
+#47,Top, IG TheShy,Diamond II - 51 LP,61.9,104 / 64,Oafers
+#48,Support,Hisher,Diamond II - 49 LP,55.3,125 / 101,polop900
+#49,Mid,Foxy,Diamond II - 48 LP,57.2,111 / 83,Foxy
+#50,Top,RNG Letme,Diamond II - 46 LP,52.1,172 / 158,LPLAhri
+#51,Jungle,RNG mlxg,Diamond II - 38 LP,53.9,171 / 146,LPLAhri
+#52,Mid,Vergil,Diamond II - 28 LP,54.5,108 / 90,Yzeerf
+#53,Jungle,Import Slot 2,Diamond II - 27 LP,56.1,124 / 97,CoachYouGen
+#54,Mid,PepeCool,Diamond II - 23 LP,53.5,161 / 140,LS
+#55,ADC,Rio Sonogami,Diamond II - 23 LP,57.0,126 / 95,Ruler Rinne
+#56,Top,Raleigh Obelisk,Diamond II - 22 LP,59.5,119 / 81,Sinker
+#57,Support,FPX Crisp,Diamond II - 21 LP,52.3,232 / 212,LPLAhri
+#58,Mid,DOINB RYZE HACK,Diamond II - 18 LP,55.7,102 / 81,wiksonix
+#59,Jungle,Gnima,Diamond II - 17 LP,52.9,209 / 186,YoloMedic
+#60,Support,Egirl champs onl,Diamond II - 16 LP,52.8,105 / 94,Spooky
+#61,Mid,Frethborn,Diamond II - 13 LP,49.6,123 / 125,Jinxnator
+#62,ADC,Vixcini,Diamond II - 3 LP,54.5,120 / 100,Blade1284
+#63,Top,Zuko,Diamond III - 99 LP,54.7,129 / 107,Lior
+#64,Mid,strawberry frog,Diamond III - 89 LP,53.9,151 / 129,annauwumarie
+#65,Mid,Seirilyvia,Diamond III - 86 LP,56.4,159 / 123,Kythaela
+#66,Top,Oven,Diamond III - 82 LP,54.2,110 / 93,ovenjohnson
+#67,ADC,Char,Diamond III - 79 LP,55.9,114 / 90,azure43
+#68,Top,TopBot,Diamond III - 78 LP,52.7,118 / 106,TangilBOT
+#69,Mid,BOOCAUWMOO,Diamond III - 71 LP,52.5,125 / 113,BooCauwMoo
+#70,Jungle,Bibi,Diamond III - 70 LP,53.6,126 / 109,Troeton
+#71,ADC,PvM,Diamond III - 66 LP,51.8,130 / 121,iampvm
+#72,Support,Sinon onii-chan,Diamond III - 66 LP,52.4,122 / 111,Kuury
+#73,ADC,Kogglemoggle,Diamond III - 66 LP,53.2,116 / 102,Sinker
+#74,ADC,Geekymanxnlx,Diamond III - 65 LP,52.0,142 / 131,DitIsDonny
+#75,ADC,Kuury test 4,Diamond III - 58 LP,53.8,113 / 97,Kuury test
+#76,Support,Jao,Diamond III - 57 LP,53.0,160 / 142,YoloMedic
+#77,ADC,Rigomi,Diamond III - 56 LP,59.3,121 / 83,Rigomi
+#78,ADC,Frosti,Diamond III - 54 LP,53.2,134 / 118,Freezy
+#79,Top,Ben Dover,Diamond III - 53 LP,53.3,121 / 106,Hjornet
+#80,Top,Destructoid,Diamond III - 53 LP,57.0,244 / 184,YoloMedic
+#81,Support,KuroKy,Diamond III - 53 LP,52.1,159 / 146,NAVI
+#82,Mid,Omni,Diamond III - 51 LP,56.3,144 / 112,YungYiga
+#83,Jungle,Xyras,Diamond III - 50 LP,50.0,107 / 107,Jungler1337
+#84,Top,d4mocl3s,Diamond III - 48 LP,56.4,106 / 82,Tifumerrang
+#85,Top,DRX Deft,Diamond III - 48 LP,56.2,109 / 85,Tokyo Smurfer
+#86,ADC,CNoFlaw,Diamond III - 46 LP,48.9,115 / 120,AnFun
+#87,Support,JhinSuppNoTroll,Diamond III - 45 LP,51.5,119 / 112,UNR Tokyo
+#88,ADC,Kudor88888882141,Diamond III - 45 LP,54.5,110 / 92,Mac
+#89,Support,BoquitaCampeon,Diamond III - 43 LP,59.4,130 / 89,Jon_14
+#90,Support,Kutcher,Diamond III - 41 LP,53.8,150 / 129,Terra
+#91,ADC,Test4,Diamond III - 36 LP,53.6,150 / 130,test
+#92,Support,Kapp Wampie,Diamond III - 36 LP,51.8,116 / 108,Plankuaa
+#93,Jungle,DanDy,Diamond III - 36 LP,55.5,137 / 110,minimike97
+#94,Jungle,EG Voutocu,Diamond III - 35 LP,54.2,109 / 92,EG Voutocu
+#95,Mid,Galio,Diamond III - 34 LP,52.3,113 / 103,UNR Tokyo
+#96,Support,Aqua,Diamond III - 33 LP,56.2,200 / 156,Trindor
+#97,Jungle,JMENDOZA,Diamond III - 23 LP,51.4,127 / 120,JMENDOZA
+#98,ADC,Kali,Diamond III - 20 LP,51.5,174 / 164,YoloMedic
+#99,ADC,be proud of me,Diamond III - 19 LP,52.7,116 / 104,cabula
+#100,Top,Aryze,Diamond III - 15 LP,50.8,127 / 123,sanchesmemo
