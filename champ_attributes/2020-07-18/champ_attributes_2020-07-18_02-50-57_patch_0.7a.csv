@@ -1,0 +1,148 @@
+Name,Attributes
+Karma,Mid Range,Enchanter,Poke,Mage,Wave Clear 
+Karthus,Mid Range,Hyper Carry,Teamfighter,Powerfarm 
+Senna,High Range,Marksman,Enchanter,Poke,Pick,Teamfighter,Squishy 
+Rakan,Low Range,Protector,Enchanter,Skirmisher,Pick,Wave Clear,Roamer,Diver 
+Pyke,Melee,Roamer,Pick,Playmaker,Diver,Assassin 
+Udyr,Melee,Roamer,Pick,Duelist 
+Aphelios,Mid Range,Marksman,Teamfighter,Poke,Wave Clear,Powerfarm,Playmaker 
+Irelia,Melee,Duelist,Skirmisher,Splitpusher,Powerfarm,Diver 
+Sona,Mid Range,Enchanter,Poke,Mage,Pick,Squishy 
+Zac,Melee,Diver,Pick,Roamer 
+Yasuo,Melee,Marksman,Pick,Playmaker,Duelist,Wave Clear,Diver,Powerfarm,Squishy 
+Graves,Low Range,Assassin,Duelist,Diver,Powerfarm,Marksman,Roamer 
+Xayah,Low Range,Marksman,Skirmisher,Pick,Wave Clear 
+Galio,Diver,Melee,Protector 
+Skarner,Melee,Pick,Roamer 
+Shen,Melee,Protector,Roamer,Diver,Pick 
+Bard,Mid Range,Assassin,Poke,Pick,Roamer 
+Ashe,High Range,Pick,Marksman,Poke 
+Ornn,Melee,Pick,Diver,Duelist,Skirmisher,Teamfighter 
+Singed,Melee,Pick,Splitpusher,Powerfarm,Playmaker 
+Camille,Melee,Assassin,Diver,Duelist,Splitpusher 
+Tryndamere,Melee,Hyper Carry,Duelist,Splitpusher,Powerfarm 
+Ezreal,High Range,Poke,Marksman,Wave Clear,Roamer,Diver,Playmaker,Skirmisher 
+Xerath,High Range,Pick,Poke,Mage,Squishy,Wave Clear 
+Lee Sin,Melee,Diver,Duelist,Roamer,Pick 
+Malphite,Melee,Pick,Poke,Roamer,Teamfighter 
+Yuumi,Low Range,Poke,Enchanter 
+Nautilus,Melee,Pick,Protector,Roamer 
+Ahri,Mid Range,Assassin,Diver,Skirmishes,Mage,Wave Clear,Roamer 
+Ivern,Low Range,Enchanter,Pick,Roamer 
+Master Yi,Melee,Hyper Carry,Powerfarm 
+Thresh,Low Range,Protector,Roamer,Pick 
+Volibear,Melee,Skirmishes,Diver,Roamer,Pick 
+Janna,Mid Range,Poke,Enchanter,Roamer 
+Miss Fortune,Mid Range,Marksman,Teamfighter,Poke 
+Braum,Melee,Protector,Duelist,Poke,Pick 
+Taric,Melee,Protector,Duelist,Teamfighter 
+Blitzcrank,Melee,Pick,Protector,Roamer 
+Caitlyn,High Range,Marksman,Poke,Teamfighter 
+Warwick,Melee,Pick,Duelist,Roamer 
+Sett,Melee,Duelist,Skirmisher,Protector,Roamer,Diver 
+Riven,Melee,Duelist,Diver,Roamer,Playmaker 
+Alistar,Melee,Protector,Pick,Diver 
+Nocturne,Melee,Assassin,Diver,Pick,Roamer 
+Nunu,Melee,Pick,Roamer 
+Hecarim,Melee,Pick,Diver,Duelist,Skirmisher,Roamer 
+Draven,Low Range,Duelist,Marksman,Playmaker 
+Orianna,Mid Range,Poke,Wave Clear,Teamfighter,Mage 
+Dr. Mundo,Melee,Poke,Diver,Duelist,Splitpusher 
+Akali,Low Range,Assassin,Diver,Mage,Wave Clear,Playmaker,Duelist 
+Aatrox,Melee,Duelist,Splitpusher,Playmaker 
+Ryze,Mid Range,Wave Clear,Hyper Carry,Skirmisher,Powerfarm 
+Vayne,Mid Range,Diver,Duelist,Hyper Carry,Playmaker 
+Illaoi,Melee,Skirmisher,Powerfarm,Splitpusher,Wave Clear 
+Pantheon,Melee,Roamer,Assassin,Duelist 
+Varus,High Range,Pick,Marksman,Poke,Wave Clear 
+Kennen,Mid Range,Pick,Splitpusher,Teamfighter,Poke 
+Sejuani,Melee,Pick,Protector,Roamer 
+Kai'Sa,Low Range,Hyper Carry,Assassin,Poke,Duelist,Diver 
+Sylas,Melee,Pick,Duelist,Assassin,Diver 
+Fiddlesticks,Mid Range,Teamfighter,Powerfarm,Pick 
+Rek'Sai,Melee,Pick,Roamer,Duelist 
+Leona,Melee,Protector,Pick,Roamer 
+Nidalee,Mid Range,Assassin,Skirmisher,Poke,Mage,Roamer 
+Wukong,Low Range,Poke,Skirmisher,Diver,Playmaker,Roamer 
+Kha'Zix,Melee,Poke,Assassin,Diver,Powerfarm,Duelist,Playmaker 
+Syndra,Mid Range,Poke,Duelist,Assassin,Wave Clear,Pick 
+Mordekaiser,Melee,Duelist,Wave Clear,Splitpusher 
+Nasus,Melee,Powerfarm,Hyper Carry 
+Poppy,Melee,Protector,Pick,Roamer 
+Anivia,Mid Range,Mage,Wave Clear,Pick 
+Zilean,Low Range,Pick,Enchanter,Skirmisher,Squishy 
+Fiora,Melee,Duelist,Diver,Playmaker,Splitpusher 
+Veigar,Mid Range,Pick,Hyper Carry,Squishy,Poke 
+Sion,Melee,Wave Clear,Splitpusher 
+Brand,Mid Range,Poke,Wave Clear,Mage,Teamfighter,Squishy 
+Jinx,High Range,Hyper Carry,Wave Clear,Teamfighter,Poke,Squishy 
+Aurelion Sol,Mid Range,Poke,Pick,Wave Clear,Teamfighter,Roamer,Squishy 
+Evelynn,Low Range,Assassin,Powerfarm,Squishy,Roamer 
+Lucian,Low Range,Duelist,Marksman,Playmaker,Diver 
+Nami,Mid Range,Poke,Enchanter,Pick,Squishy 
+Zoe,High Range,Pick,Mage,Assassin,Poke,Squishy 
+Gangplank,Low Range,Poke,Marksman,Playmaker,Skirmisher,Wave Clear 
+Kassadin,Melee,Hyper Carry,Assassin,Roamer,Poke 
+Malzahar,Mid Range,Wave Clear,Mage,Pick 
+Cassiopeia,Mid Range,Mage,Teamfighter,Pick,Wave Clear 
+Olaf,Duelist,Melee,Diver 
+Azir,Mid Range,Hyper Carry,Poke,Wave Clear 
+Jarvan IV,Melee,Protector,Diver,Pick,Teamfighter,Roamer 
+Trundle,Melee,Pick,Diver,Skirmisher 
+Gnar,Low Range,Poke,Diver,Pick,Skirmisher 
+Darius,Melee,Duelist 
+Tristana,High Range,Marksman,Diver,Wave Clear 
+Maokai,Melee,Pick,Diver,Protector,Skirmisher,Roamer 
+Talon,Melee,Assassin,Diver,Duelist,Teamfighter,Roamer,Wave Clear 
+Ekko,Melee,Assassin,Diver,Skirmisher,Wave Clear,Roamer 
+Zed,Melee,Assassin,Diver,Duelist,Roamer 
+Kog'Maw,High Range,Hyper Carry,Squishy 
+LeBlanc,Mid Range,Poke,Roamer,Assassin,Diver,Wave Clear 
+Twitch,High Range,Hyper Carry,Teamfighter,Roamer,Squishy 
+Jayce,Melee,Duelist,Poke,Diver,Roamer,Wave Clear 
+Kindred,Mid Range,Marksman,Assassin,Powerfarm 
+Yorick,Melee,Duelist,Pick,Splitpusher 
+Tahm Kench,Low Range,Protector,Duelist 
+Urgot,Skirmisher,Low Range 
+Jhin,Mid Range,Marksman,Teamfighter,Poke,Wave Clear 
+Katarina,Melee,Assassin,Wave Clear,Diver,Teamfighter,Playmaker 
+Vladimir,Mid Range,Teamfighter,Mage,Powerfarm 
+Shaco,Melee,Assassin,Diver,Pick,Poke 
+Vel'Koz,Mid Range,Poke,Mage,Skirmisher,Squishy 
+Teemo,Mid Range,Poke,Duelist 
+Kayle,Melee,Hyper Carry,Wave Clear,Poke 
+Gragas,Melee,Assassin,Roamer,Skirmisher 
+Swain,Mid Range,Mage,Poke,Skirmisher,Pick 
+Heimerdinger,Mid Range,Skirmisher,Poke,Mage,Pick,Wave Clear 
+Rammus,Melee,Pick,Roamer,Skirmisher 
+Elise,Mid Range,Assassin,Roamer 
+Quinn,Mid Range,Poke,Roamer 
+Lulu,Mid Range,Enchanter,Poke,Squishy 
+Sivir,Mid Range,Marksman,Wave Clear,Teamfighter,Poke 
+Twisted Fate,Mid Range,Poke,Pick 
+Zyra,Mid Range,Poke,Pick,Teamfighter,Squishy 
+Amumu,Melee,Pick,Teamfighter,Diver,Roamer 
+Annie,High Range,Poke,Pick 
+Renekton,Melee,Duelist,Diver,Wave Clear,Roamer 
+Cho'Gath,Low Range,Pick,Poke,Skirmisher 
+Rumble,Low Range,Diver,Teamfighter,Mage,Wave Clear,Roamer 
+Kled,Melee,Duelist,Splitpusher,Diver,Pick 
+Ziggs,Mid Range,Mage,Poke,Skirmisher,Wave Clear 
+Xin Zhao,Duelist,Melee 
+Fizz,Melee,Assassin,Diver,Roamer,Skirmishes 
+Corki,Mid Range,Marksman,Poke,Wave Clear,Diver,Skirmisher,Roamer 
+Neeko,Mid Range,Pick,Poke,Teamfighter,Wave Clear 
+Qiyana,Melee,Roamer,Assassin,Diver,Teamfighter,Squishy 
+Vi,Melee,Pick,Duelist,Roamer 
+Jax,Melee,Duelist,Splitpusher,Diver,Pick 
+Morgana,Mid Range,Enchanter,Wave Clear,Pick 
+Soraka,Mid Range,Enchanter,Protector,Squishy,Poke 
+Lux,Mid Range,Pick,Poke,Mage,Skirmishes,Wave Clear 
+Diana,Melee,Skirmisher,Teamfighter,Assassin,Diver,Playmaker 
+Viktor,Mid Range,Hyper Carry,Wave Clear,Skirmisher,Powerfarm 
+Taliyah,Mid Range,Assassin,Poke,Mage,Roamer 
+Lissandra,Mid Range,Poke,Wave Clear,Pick,Roamer 
+Kalista,Low Range,Skirmisher,Marksman,Wave Clear 
+Shyvana,Melee,Powerfarm,Mage,Duelist,Diver,Poke 
+Garen,Melee,Duelist,Diver,Wave Clear 
+Rengar,Melee,Assassin,Diver,Roamer,Duelist 
