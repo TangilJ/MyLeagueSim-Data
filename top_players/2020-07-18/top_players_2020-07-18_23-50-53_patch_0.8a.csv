@@ -1,0 +1,101 @@
+Rank number,Role,Player name,Rank,Win rate(%),Wins / losses,Coach
+#1,ADC,T1 T1,Challenger - 567 LP,64.8,83 / 45,Soraka
+#2,Top,Salsa,Challenger - 203 LP,67.9,165 / 78,YungYiga
+#3,Mid,Frimmy23,Challenger - 100 LP,60.7,247 / 160,YoloMedic
+#4,ADC,Kadlin,Challenger - 90 LP,59.3,284 / 195,Jinxnator
+#5,Top,RNG Letme,Challenger - 89 LP,59.5,223 / 152,LPLAhri
+#6,Jungle,Gnima,Challenger - 87 LP,57.1,222 / 167,YoloMedic
+#7,Mid,Totoro the duck,Challenger - 50 LP,57.8,159 / 116,Kuury
+#8,ADC,AJDG Angel,Challenger - 48 LP,60.5,161 / 105,Lightandhope
+#9,ADC,BöllerBusch,Challenger - 47 LP,65.1,112 / 60,Jungler1337
+#10,Mid,Arteros,Challenger - 42 LP,61.2,167 / 106,Anbeeld
+#11,Support,Aqua,Challenger - 25 LP,58.0,279 / 202,Trindor
+#12,Support,Katara,Challenger - 25 LP,55.8,184 / 146,Lior
+#13,ADC,cryhard,Challenger - 21 LP,63.0,182 / 107,roysiggi
+#14,Jungle,Pyosik,Challenger - 16 LP,58.9,222 / 155,TheStriker9
+#15,Support,Kutcher,Diamond I - 79 LP,57.1,200 / 150,Terra
+#16,Top,Zuko,Diamond I - 75 LP,58.3,180 / 129,Lior
+#17,Jungle,Jinxnator,Diamond I - 70 LP,58.2,298 / 214,Jinxnator
+#18,ADC,Jotaro Kujo,Diamond I - 66 LP,57.5,195 / 144,Ithirul
+#19,Jungle,Blaze,Diamond I - 63 LP,58.0,174 / 126,Hit_Critical
+#20,Top,Leonidas,Diamond I - 61 LP,57.1,141 / 106,Freezy
+#21,Mid,Salt,Diamond I - 60 LP,53.4,158 / 138,JMENDOZA
+#22,Jungle,time,Diamond I - 60 LP,54.5,157 / 131,schlafen
+#23,Support,strawberry cow,Diamond I - 59 LP,54.9,175 / 144,annauwumarie
+#24,Mid,kittyperry,Diamond I - 54 LP,54.6,160 / 133,GamerGirls
+#25,Mid,Coach,Diamond I - 54 LP,57.3,110 / 82,CrispTen
+#26,Jungle,Poppey,Diamond I - 51 LP,57.3,211 / 157,NAVI
+#27,Mid,strawberry frog,Diamond I - 47 LP,54.2,174 / 147,annauwumarie
+#28,Support,Tratz,Diamond I - 41 LP,55.7,180 / 143,Tangil
+#29,Support,Test5,Diamond I - 41 LP,54.6,173 / 144,test
+#30,Support,Tiriana,Diamond I - 41 LP,55.5,223 / 179,Kythaela
+#31,Top,Kritz,Diamond I - 39 LP,58.7,182 / 128,polop900
+#32,ADC,Uma Jan monkaS,Diamond I - 36 LP,56.5,196 / 151,Phost
+#33,Mid,PepeCool,Diamond I - 35 LP,52.6,205 / 185,LS
+#34,ADC,Vortex_c4,Diamond I - 34 LP,53.0,183 / 162,LumiFumi
+#35,Top,TopBot,Diamond I - 31 LP,52.6,132 / 119,TangilBOT
+#36,Mid,BottleCaps,Diamond I - 31 LP,51.9,151 / 140,Phost
+#37,Top,Dumbass,Diamond I - 30 LP,54.2,220 / 186,Key
+#38,Top,Jodko,Diamond I - 30 LP,52.6,183 / 165,Jinxnator
+#39,Mid,TES Jackeylove,Diamond I - 27 LP,56.3,112 / 87,Tokyo Smurfer
+#40,Jungle,strawberry cat,Diamond I - 27 LP,54.3,127 / 107,annauwumarie
+#41,Top,DoinB,Diamond I - 27 LP,55.0,252 / 206,LordArtos
+#42,Mid,MidBot,Diamond I - 27 LP,50.9,143 / 138,TangilBOT
+#43,Top,Destructoid,Diamond I - 26 LP,53.6,187 / 162,YoloMedic
+#44,Support,Lambo Bambo,Diamond I - 25 LP,54.8,212 / 175,Byumbi
+#45,Jungle,EG Voutocu,Diamond I - 25 LP,54.3,170 / 143,EG Voutocu
+#46,Top,Aryze,Diamond I - 25 LP,52.8,162 / 145,sanchesmemo
+#47,Jungle,Bilbo Waggins,Diamond I - 23 LP,54.5,146 / 122,ImagineBaggins
+#48,Support,Sadex,Diamond I - 21 LP,53.4,166 / 145,Spezza
+#49,Mid,DOINB RYZE HACK,Diamond I - 20 LP,51.6,149 / 140,wiksonix
+#50,Mid,Phantom,Diamond I - 18 LP,55.2,217 / 176,Kyzent
+#51,Jungle,EDG Clearlove7,Diamond I - 16 LP,57.5,181 / 134,RNGFirefox
+#52,Support,GeT OutFlayed,Diamond I - 14 LP,51.5,105 / 99,Mac
+#53,ADC,Nero,Diamond I - 14 LP,53.4,143 / 125,Yzeerf
+#54,Jungle,Dr4gg4r,Diamond I - 13 LP,54.2,147 / 124,DAYLlGHT
+#55,Top, IG TheShy,Diamond I - 13 LP,53.9,123 / 105,Oafers
+#56,Top,xxaznpuppy32xx,Diamond I - 13 LP,53.7,195 / 168,GamerGirls
+#57,Top,Amouranth,Diamond I - 12 LP,52.4,205 / 186,Simp
+#58,Mid,Seirilyvia,Diamond I - 12 LP,53.6,165 / 143,Kythaela
+#59,Jungle,Test2,Diamond I - 11 LP,51.8,142 / 132,test
+#60,Top,Raleigh Obelisk,Diamond I - 10 LP,49.6,113 / 115,Sinker
+#61,ADC,Rio Sonogami,Diamond I - 10 LP,52.7,128 / 115,Ruler Rinne
+#62,Support,Trick789,Diamond I - 8 LP,54.1,120 / 102,Landmeeuw
+#63,Support,iEnygma,Diamond I - 8 LP,53.4,156 / 136,EG Voutocu
+#64,ADC,Geekymanxnlx,Diamond I - 2 LP,58.1,254 / 183,DitIsDonny
+#65,Support,E-girl,Diamond I - 1 LP,53.1,130 / 115,Dayspring
+#66,Support,Egirl champs onl,Diamond I - 0 LP,53.6,202 / 175,Spooky
+#67,Mid,AJDG Life,Diamond I - 0 LP,52.2,118 / 108,Lightandhope
+#68,ADC,Bilbo Gaggins,Diamond II - 99 LP,53.0,157 / 139,ImagineBaggins
+#69,ADC,200 YEARSXD,Diamond II - 98 LP,52.0,153 / 141,wiksonix
+#70,Mid,Choky,Diamond II - 98 LP,49.9,183 / 184,Key
+#71,ADC,Magic Wampie,Diamond II - 98 LP,57.7,139 / 102,Tifumerrang
+#72,Jungle,Zevton,Diamond II - 95 LP,54.8,142 / 117,polop900
+#73,Jungle,MexicanPidgeon,Diamond II - 94 LP,50.5,108 / 106,LumiFumi
+#74,Top,Randomsmeker1234,Diamond II - 90 LP,51.1,120 / 115,Mac
+#75,Jungle,Bibi,Diamond II - 89 LP,55.3,156 / 126,Troeton
+#76,Jungle,Hidden,Diamond II - 88 LP,52.7,128 / 115,SinderFox
+#77,Jungle,Ceasarna,Diamond II - 87 LP,54.1,138 / 117,iampvm
+#78,Top,MrBochka,Diamond II - 85 LP,55.1,205 / 167,Anbeeld
+#79,Support,Truth,Diamond II - 85 LP,51.9,190 / 176,Player2225
+#80,Mid,Person201,Diamond II - 84 LP,54.6,171 / 142,LumiFumi
+#81,ADC,Texe,Diamond II - 83 LP,53.4,143 / 125,TexeQ
+#82,Top,SmackyB,Diamond II - 79 LP,55.1,157 / 128,Byumbi
+#83,Mid,Frethborn,Diamond II - 79 LP,51.9,195 / 181,Jinxnator
+#84,Support,Jodini the GREAT,Diamond II - 79 LP,55.3,89 / 72,Hallend
+#85,Top,Top,Diamond II - 78 LP,49.6,119 / 121,jksad
+#86,Support,OTP SUP,Diamond II - 77 LP,54.3,145 / 122,hey1
+#87,Mid,I like trains,Diamond II - 77 LP,52.4,133 / 121,Foxxo
+#88,Jungle,Dontgank,Diamond II - 77 LP,55.2,228 / 185,Key
+#89,Mid,BOOCAUWMOO,Diamond II - 75 LP,54.3,189 / 159,BooCauwMoo
+#90,Jungle,Sparrow,Diamond II - 73 LP,51.5,156 / 147,Anbeeld
+#91,Support,Monkey Mokney,Diamond II - 73 LP,49.1,104 / 108,Ghacobe
+#92,Top,Ezio,Diamond II - 72 LP,53.2,173 / 152,TexeQ
+#93,Top,Rywanna,Diamond II - 71 LP,52.7,156 / 140,Kythaela
+#94,Jungle,110110010011,Diamond II - 67 LP,51.3,102 / 97,110110010011
+#95,Support,BoquitaCampeon,Diamond II - 66 LP,51.7,124 / 116,Jon_14
+#96,Mid,Caps,Diamond II - 65 LP,48.4,194 / 207,LordArtos
+#97,Mid,Bjergsen,Diamond II - 63 LP,54.1,119 / 101,Weinnachtsbaum
+#98,Mid,Foxy,Diamond II - 62 LP,49.8,122 / 123,Foxy
+#99,Mid,do you have dad,Diamond II - 61 LP,52.0,133 / 123,schlafen2
+#100,Mid,Flame,Diamond II - 56 LP,52.0,128 / 118,Hit_Critical
