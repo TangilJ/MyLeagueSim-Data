@@ -1,0 +1,101 @@
+Rank number,Role,Player name,Rank,Win rate(%),Wins / losses,Coach
+#1,ADC,T1 T1,Challenger - 537 LP,63.6,63 / 36,Soraka
+#2,Top,Salsa,Challenger - 204 LP,68.9,133 / 60,YungYiga
+#3,Mid,Arteros,Challenger - 171 LP,64.5,147 / 81,Anbeeld
+#4,ADC,BöllerBusch,Challenger - 146 LP,72.6,82 / 31,Jungler1337
+#5,ADC,Jotaro Kujo,Challenger - 86 LP,59.7,148 / 100,Ithirul
+#6,Top,RNG Letme,Challenger - 77 LP,58.8,154 / 108,LPLAhri
+#7,Support,Aqua,Challenger - 67 LP,58.7,209 / 147,Trindor
+#8,Mid,Frimmy23,Challenger - 33 LP,60.6,175 / 114,YoloMedic
+#9,ADC,cryhard,Challenger - 10 LP,65.1,123 / 66,roysiggi
+#10,Jungle,Jinxnator,Challenger - 9 LP,59.7,227 / 153,Jinxnator
+#11,Jungle,Gnima,Challenger - 8 LP,54.4,149 / 125,YoloMedic
+#12,Support,Tiriana,Challenger - 7 LP,56.4,172 / 133,Kythaela
+#13,ADC,Kadlin,Challenger - 3 LP,58.2,220 / 158,Jinxnator
+#14,Mid,Frethborn,Diamond I - 97 LP,53.3,162 / 142,Jinxnator
+#15,ADC,AJDG Angel,Diamond I - 82 LP,59.6,112 / 76,Lightandhope
+#16,Jungle,EDG Clearlove7,Diamond I - 78 LP,59.7,129 / 87,RNGFirefox
+#17,Jungle,Kong,Diamond I - 69 LP,53.2,123 / 108,YungYiga
+#18,ADC,Uma Jan monkaS,Diamond I - 68 LP,57.1,132 / 99,Phost
+#19,Mid,PepeCool,Diamond I - 63 LP,52.2,151 / 138,LS
+#20,Top,Kritz,Diamond I - 63 LP,60.5,150 / 98,polop900
+#21,Mid,Person201,Diamond I - 61 LP,57.5,127 / 94,LumiFumi
+#22,Jungle,Blaze,Diamond I - 54 LP,60.1,125 / 83,Hit_Critical
+#23,Support,Tratz,Diamond I - 48 LP,57.8,134 / 98,Tangil
+#24,Support,Kutcher,Diamond I - 44 LP,55.8,134 / 106,Terra
+#25,Support,Import Slot 1,Diamond I - 43 LP,55.9,128 / 101,CoachYouGen
+#26,Mid,Flame,Diamond I - 41 LP,54.6,100 / 83,Hit_Critical
+#27,Jungle,Poppey,Diamond I - 40 LP,57.9,161 / 117,NAVI
+#28,Top,Zuko,Diamond I - 39 LP,59.5,135 / 92,Lior
+#29,Support,Egirl champs onl,Diamond I - 39 LP,54.2,148 / 125,Spooky
+#30,Support,Katara,Diamond I - 37 LP,53.8,121 / 104,Lior
+#31,Top,DoinB,Diamond I - 37 LP,56.6,180 / 138,LordArtos
+#32,Top,MrBochka,Diamond I - 33 LP,57.1,178 / 134,Anbeeld
+#33,ADC,Krono,Diamond I - 32 LP,54.8,120 / 99,Kronossaurus
+#34,Top,Chrusher,Diamond I - 28 LP,56.3,117 / 91,Spezza
+#35,ADC,Geekymanxnlx,Diamond I - 24 LP,59.9,185 / 124,DitIsDonny
+#36,Top,Dumbass,Diamond I - 24 LP,54.0,170 / 145,Key
+#37,Mid,Totoro the duck,Diamond I - 23 LP,55.4,98 / 79,Kuury
+#38,Support,strawberry cow,Diamond I - 22 LP,55.2,122 / 99,annauwumarie
+#39,Jungle,Pyosik,Diamond I - 21 LP,58.5,175 / 124,TheStriker9
+#40,Jungle,Bibi,Diamond I - 20 LP,56.9,128 / 97,Troeton
+#41,Mid,DOINB RYZE HACK,Diamond I - 19 LP,52.3,115 / 105,wiksonix
+#42,Top,Top,Diamond I - 18 LP,51.9,95 / 88,jksad
+#43,ADC,Sylmarae,Diamond I - 18 LP,51.0,131 / 126,Kythaela
+#44,Top,SmackyB,Diamond I - 16 LP,57.7,128 / 94,Byumbi
+#45,ADC,Gwyn,Diamond I - 15 LP,57.3,125 / 93,Fells
+#46,Jungle,Ceasarna,Diamond I - 14 LP,56.3,107 / 83,iampvm
+#47,Mid,Seirilyvia,Diamond I - 14 LP,54.4,135 / 113,Kythaela
+#48,Support,Lambo Bambo,Diamond I - 10 LP,55.9,167 / 132,Byumbi
+#49,Top,Aryze,Diamond I - 10 LP,52.4,118 / 107,sanchesmemo
+#50,Top,Destructoid,Diamond I - 1 LP,55.2,132 / 107,YoloMedic
+#51,Mid,Lucius ,Diamond I - 1 LP,56.7,93 / 71,Jungler1337
+#52,Top,Ezio,Diamond II - 98 LP,54.8,137 / 113,TexeQ
+#53,Top,TopBot,Diamond II - 97 LP,52.2,97 / 89,TangilBOT
+#54,Support,Test5,Diamond II - 97 LP,53.5,121 / 105,test
+#55,Mid,Phantom,Diamond II - 94 LP,55.1,178 / 145,Kyzent
+#56,Jungle,DanDy,Diamond II - 94 LP,54.9,112 / 92,minimike97
+#57,Jungle,Dontgank,Diamond II - 94 LP,56.5,182 / 140,Key
+#58,Jungle,jungle gap,Diamond II - 93 LP,52.2,84 / 77,crithitfail
+#59,Top,Jodko,Diamond II - 93 LP,51.7,139 / 130,Jinxnator
+#60,Top, IG TheShy,Diamond II - 86 LP,54.2,91 / 77,Oafers
+#61,Jungle,EG Voutocu,Diamond II - 83 LP,54.6,124 / 103,EG Voutocu
+#62,Jungle,jekedeke,Diamond II - 82 LP,50.3,91 / 90,sauce
+#63,Mid,Salt,Diamond II - 82 LP,53.8,128 / 110,JMENDOZA
+#64,ADC,Bilbo Gaggins,Diamond II - 80 LP,55.1,109 / 89,ImagineBaggins
+#65,Mid,I like trains,Diamond II - 74 LP,52.4,88 / 80,Foxxo
+#66,Mid,GummyBear,Diamond II - 72 LP,50.8,124 / 120,Spezza
+#67,Support,SEXY TAHM,Diamond II - 71 LP,51.4,95 / 90,HailOfBladesTahm
+#68,ADC,DoubleDouble,Diamond II - 65 LP,53.3,153 / 134,Player2225
+#69,Mid,MidBot,Diamond II - 64 LP,50.7,111 / 108,TangilBOT
+#70,Mid,strawberry frog,Diamond II - 64 LP,53.5,138 / 120,annauwumarie
+#71,ADC,200 YEARSXD,Diamond II - 63 LP,52.7,116 / 104,wiksonix
+#72,Jungle,Test2,Diamond II - 61 LP,52.2,109 / 100,test
+#73,Top,Randomsmeker1234,Diamond II - 59 LP,51.9,98 / 91,Mac
+#74,Support,Sadex,Diamond II - 58 LP,54.1,111 / 94,Spezza
+#75,ADC,Vortex_c4,Diamond II - 57 LP,53.4,132 / 115,LumiFumi
+#76,Mid,Choky,Diamond II - 56 LP,51.3,137 / 130,Key
+#77,Jungle,time,Diamond II - 56 LP,52.7,109 / 98,schlafen
+#78,ADC,Perkz,Diamond II - 56 LP,53.2,133 / 117,LordArtos
+#79,Support,Truth,Diamond II - 54 LP,51.5,137 / 129,Player2225
+#80,Mid,BOOCAUWMOO,Diamond II - 52 LP,55.2,139 / 113,BooCauwMoo
+#81,Jungle,Bilbo Waggins,Diamond II - 51 LP,54.4,106 / 89,ImagineBaggins
+#82,Jungle,MexicanPidgeon,Diamond II - 47 LP,50.6,82 / 80,LumiFumi
+#83,Top,Amouranth,Diamond II - 46 LP,52.4,155 / 141,Simp
+#84,Mid,BottleCaps,Diamond II - 45 LP,51.2,107 / 102,Phost
+#85,Support,iEnygma,Diamond II - 45 LP,55.0,116 / 95,EG Voutocu
+#86,Jungle,woope,Diamond II - 44 LP,51.0,104 / 100,sanchesmemo
+#87,Mid,Test3,Diamond II - 43 LP,51.2,103 / 98,test
+#88,Support,BoquitaCampeon,Diamond II - 42 LP,53.4,93 / 81,Jon_14
+#89,Jungle,Hidden,Diamond II - 41 LP,51.8,86 / 80,SinderFox
+#90,Top,xxaznpuppy32xx,Diamond II - 41 LP,54.7,150 / 124,GamerGirls
+#91,Top,Rywanna,Diamond II - 36 LP,53.7,124 / 107,Kythaela
+#92,Top,Leonidas,Diamond II - 33 LP,55.4,102 / 82,Freezy
+#93,Top,Test1,Diamond II - 32 LP,53.4,101 / 88,test
+#94,Support,OTP SUP,Diamond II - 32 LP,56.2,100 / 78,hey1
+#95,Top,Raleigh Obelisk,Diamond II - 29 LP,48.3,86 / 92,Sinker
+#96,Jungle,Pheoldre,Diamond II - 29 LP,52.9,135 / 120,Kythaela
+#97,Mid,RunningDown,Diamond II - 28 LP,55.0,111 / 91,Freezy
+#98,Top,Bilbo Saggins,Diamond II - 23 LP,51.0,101 / 97,ImagineBaggins
+#99,Top,DangerousMolerat,Diamond II - 21 LP,49.7,88 / 89,Blade1284
+#100,ADC,Kvad,Diamond II - 20 LP,53.9,111 / 95,Spezza
