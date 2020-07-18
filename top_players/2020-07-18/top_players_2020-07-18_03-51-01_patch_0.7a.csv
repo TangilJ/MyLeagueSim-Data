@@ -1,0 +1,101 @@
+Rank number,Role,Player name,Rank,Win rate(%),Wins / losses,Coach
+#1,ADC,T1 T1,Challenger - 808 LP,75.9,198 / 63,Soraka
+#2,Top,Salsa,Challenger - 200 LP,64.3,409 / 227,YungYiga
+#3,Mid,Frimmy23,Challenger - 180 LP,62.3,417 / 252,YoloMedic
+#4,ADC,Kadlin,Challenger - 132 LP,64.6,409 / 224,Jinxnator
+#5,Top,Ezio,Challenger - 125 LP,60.2,363 / 240,TexeQ
+#6,ADC,BöllerBusch,Challenger - 98 LP,63.1,284 / 166,Jungler1337
+#7,Top,RNG Letme,Challenger - 97 LP,57.0,402 / 303,LPLAhri
+#8,ADC,cryhard,Challenger - 91 LP,57.9,298 / 217,roysiggi
+#9,Jungle,Ceasarna,Challenger - 85 LP,58.6,324 / 229,iampvm
+#10,Jungle,Poppey,Challenger - 84 LP,61.3,382 / 241,NAVI
+#11,Support,FPX Crisp,Challenger - 64 LP,55.2,464 / 377,LPLAhri
+#12,Mid,Arteros,Challenger - 60 LP,62.7,338 / 201,Anbeeld
+#13,ADC,Uma Jan monkaS,Challenger - 59 LP,59.4,300 / 205,Phost
+#14,Jungle,Gnima,Challenger - 46 LP,54.5,405 / 338,YoloMedic
+#15,Jungle,Jinxnator,Challenger - 34 LP,59.8,381 / 256,Jinxnator
+#16,ADC,Jotaro Kujo,Challenger - 30 LP,56.5,344 / 265,Ithirul
+#17,Top,Zuko,Challenger - 8 LP,55.6,313 / 250,Lior
+#18,Mid,Flame,Challenger - 7 LP,57.7,291 / 213,Hit_Critical
+#19,ADC,TES Jackeylove,Challenger - 3 LP,54.9,375 / 308,LPLAhri
+#20,Jungle,MexicanPidgeon,Challenger - 1 LP,56.2,317 / 247,LumiFumi
+#21,Mid,Salt,Diamond I - 99 LP,58.6,358 / 253,JMENDOZA
+#22,Jungle,Sparrow,Diamond I - 97 LP,56.0,320 / 251,Anbeeld
+#23,ADC,DoubleDouble,Diamond I - 87 LP,54.9,362 / 297,Player2225
+#24,Top,DoinB,Diamond I - 79 LP,57.6,428 / 315,LordArtos
+#25,Mid,Vergil,Diamond I - 79 LP,54.3,259 / 218,Yzeerf
+#26,Top,xxaznpuppy32xx,Diamond I - 72 LP,55.3,395 / 319,GamerGirls
+#27,Jungle,Kong,Diamond I - 67 LP,52.8,321 / 287,YungYiga
+#28,Mid,Nea,Diamond I - 65 LP,55.5,251 / 201,TheRelic4411
+#29,Support,Tratz,Diamond I - 64 LP,55.7,310 / 247,Tangil
+#30,Support,Monkey Mokney,Diamond I - 56 LP,53.8,186 / 160,Ghacobe
+#31,Support,E-girl,Diamond I - 55 LP,54.2,259 / 219,Dayspring
+#32,Support,Test5,Diamond I - 53 LP,56.5,385 / 297,test
+#33,ADC,AJDG Angel,Diamond I - 51 LP,55.6,304 / 243,Lightandhope
+#34,ADC,Bacon,Diamond I - 47 LP,51.5,344 / 324,YungYiga
+#35,Mid,DOINB RYZE HACK,Diamond I - 41 LP,55.2,238 / 193,wiksonix
+#36,Support,Lambo Bambo,Diamond I - 39 LP,50.2,368 / 365,Byumbi
+#37,Jungle,EG Voutocu,Diamond I - 37 LP,53.6,275 / 238,EG Voutocu
+#38,ADC,Test4,Diamond I - 36 LP,53.9,327 / 280,test
+#39,Jungle,jungle gap,Diamond I - 32 LP,52.7,250 / 224,crithitfail
+#40,ADC,Kali,Diamond I - 31 LP,54.3,405 / 341,YoloMedic
+#41,Support,SEXY TAHM,Diamond I - 31 LP,53.4,276 / 241,HailOfBladesTahm
+#42,Top,Raleigh Obelisk,Diamond I - 30 LP,57.8,266 / 194,Sinker
+#43,Jungle,Xyras,Diamond I - 28 LP,52.4,249 / 226,Jungler1337
+#44,Top,Destructoid,Diamond I - 28 LP,57.9,475 / 345,YoloMedic
+#45,Support,Katara,Diamond I - 26 LP,55.0,379 / 310,Lior
+#46,Top,Test1,Diamond I - 25 LP,51.6,324 / 304,test
+#47,ADC,be proud of me,Diamond I - 24 LP,52.0,297 / 274,cabula
+#48,Mid,Person201,Diamond I - 23 LP,55.1,270 / 220,LumiFumi
+#49,Top,Kritz,Diamond I - 23 LP,58.5,297 / 211,polop900
+#50,Mid,Seirilyvia,Diamond I - 23 LP,57.9,364 / 265,Kythaela
+#51,Top,Top,Diamond I - 21 LP,53.3,242 / 212,jksad
+#52,Support,Sadex,Diamond I - 19 LP,54.9,237 / 195,Spezza
+#53,Top,Amouranth,Diamond I - 18 LP,54.0,393 / 335,Simp
+#54,Mid,MidBot,Diamond I - 17 LP,56.7,265 / 202,TangilBOT
+#55,Support,iEnygma,Diamond I - 16 LP,55.3,228 / 184,EG Voutocu
+#56,Jungle,Pyosik,Diamond I - 16 LP,56.1,345 / 270,TheStriker9
+#57,ADC,Vortex_c4,Diamond I - 15 LP,54.5,294 / 245,LumiFumi
+#58,Jungle,Blaze,Diamond I - 15 LP,57.6,272 / 200,Hit_Critical
+#59,Support,5,Diamond I - 14 LP,55.5,231 / 185,Espeon
+#60,Top,Aryze,Diamond I - 14 LP,54.4,297 / 249,sanchesmemo
+#61,Top,Ben Dover,Diamond I - 13 LP,55.5,277 / 222,Hjornet
+#62,Jungle,strawberry cat,Diamond I - 13 LP,52.6,329 / 296,annauwumarie
+#63,Top,TopBot,Diamond I - 13 LP,53.4,276 / 241,TangilBOT
+#64,Mid,creative mind,Diamond I - 13 LP,56.0,339 / 266,cabula
+#65,Jungle,jekedeke,Diamond I - 12 LP,53.3,252 / 221,sauce
+#66,Mid,Frethborn,Diamond I - 10 LP,53.7,339 / 292,Jinxnator
+#67,ADC,Char,Diamond I - 9 LP,55.0,252 / 206,azure43
+#68,ADC,Rio Sonogami,Diamond I - 9 LP,53.3,277 / 243,Ruler Rinne
+#69,Mid,GummyBear,Diamond I - 8 LP,53.8,247 / 212,Spezza
+#70,ADC,Kapp Wasfürsaft,Diamond I - 7 LP,53.9,220 / 188,Plankuaa
+#71,Jungle,110110010011,Diamond I - 6 LP,55.5,253 / 203,110110010011
+#72,Top,Rio,Diamond I - 5 LP,51.6,240 / 225,azure43
+#73,Jungle,RNG mlxg,Diamond I - 5 LP,53.6,340 / 294,LPLAhri
+#74,Mid,BottleCaps,Diamond I - 4 LP,55.2,313 / 254,Phost
+#75,Jungle,Test2,Diamond I - 3 LP,55.4,346 / 278,test
+#76,Mid,BOOCAUWMOO,Diamond I - 3 LP,53.6,330 / 286,BooCauwMoo
+#77,Top,Dumbass,Diamond II - 99 LP,55.5,358 / 287,Key
+#78,Top,DangerousMolerat,Diamond II - 99 LP,54.0,298 / 254,Blade1284
+#79,Jungle,YokoOno,Diamond II - 98 LP,52.5,234 / 212,Freezy
+#80,Top,Leonidas,Diamond II - 98 LP,55.1,285 / 232,Freezy
+#81,Top,pta alistar top,Diamond II - 97 LP,52.3,251 / 229,roysiggi
+#82,Jungle,Superb,Diamond II - 97 LP,54.6,297 / 247,Spezza
+#83,ADC,CoolBroDenis,Diamond II - 96 LP,52.6,319 / 287,JMENDOZA
+#84,Mid,AJDG Life,Diamond II - 95 LP,53.5,269 / 234,Lightandhope
+#85,Mid,WoO0oW,Diamond II - 94 LP,53.1,220 / 194,Mac
+#86,Support,Aqua,Diamond II - 94 LP,56.2,424 / 331,Trindor
+#87,Top,Jonathan Joestar,Diamond II - 93 LP,54.1,270 / 229,Ithirul
+#88,Support,R.Leg of Cauw,Diamond II - 92 LP,52.8,336 / 300,BooCauwMoo
+#89,Jungle,Hidden,Diamond II - 90 LP,56.2,232 / 181,SinderFox
+#90,Jungle,woope,Diamond II - 89 LP,54.9,242 / 199,sanchesmemo
+#91,Mid,Hai,Diamond II - 86 LP,55.1,241 / 196,Chowdeer
+#92,Jungle,EDG Clearlove7,Diamond II - 81 LP,58.5,395 / 280,RNGFirefox
+#93,Jungle,Topener,Diamond II - 80 LP,54.4,291 / 244,Byumbi
+#94,Support,Kutcher,Diamond II - 78 LP,53.8,301 / 258,Terra
+#95,Support,Sinon onii-chan,Diamond II - 77 LP,53.7,300 / 259,Kuury
+#96,Support,Nightlight,Diamond II - 76 LP,54.6,293 / 244,DAYLlGHT
+#97,Support,Egirl champs onl,Diamond II - 73 LP,54.2,275 / 232,Spooky
+#98,ADC,Rigomi,Diamond II - 71 LP,56.0,280 / 220,Rigomi
+#99,Jungle,JMENDOZA,Diamond II - 67 LP,51.2,279 / 266,JMENDOZA
+#100,Support,Trick789,Diamond II - 65 LP,54.8,201 / 166,Landmeeuw
