@@ -1,0 +1,101 @@
+Rank number,Role,Player name,Rank,Win rate(%),Wins / losses,Coach
+#1,ADC,T1 T1,Challenger - 502 LP,64.2,120 / 67,Soraka
+#2,Top,RNG Letme,Challenger - 359 LP,62.9,353 / 208,LPLAhri
+#3,ADC,cryhard,Challenger - 202 LP,64.7,306 / 167,roysiggi
+#4,Jungle,Pyosik,Challenger - 106 LP,58.4,396 / 282,TheStriker9
+#5,Support,Katara,Challenger - 105 LP,56.6,286 / 219,Lior
+#6,Mid,Frimmy23,Challenger - 104 LP,60.7,371 / 240,YoloMedic
+#7,Mid,Arteros,Challenger - 93 LP,61.2,274 / 174,Anbeeld
+#8,Mid,Flame,Challenger - 78 LP,54.8,216 / 178,Hit_Critical
+#9,Support,Aqua,Challenger - 60 LP,57.1,416 / 312,Trindor
+#10,Top,Salsa,Challenger - 41 LP,62.0,266 / 163,YungYiga
+#11,Jungle,Poppey,Challenger - 34 LP,58.6,344 / 243,NAVI
+#12,Jungle,EDG Clearlove7,Challenger - 30 LP,57.4,280 / 208,RNGFirefox
+#13,ADC,BöllerBusch,Challenger - 29 LP,60.2,209 / 138,Jungler1337
+#14,Jungle,Jinxnator,Challenger - 25 LP,57.7,381 / 279,Jinxnator
+#15,ADC,Geekymanxnlx,Challenger - 19 LP,58.3,396 / 283,DitIsDonny
+#16,Top,Zuko,Challenger - 5 LP,57.7,259 / 190,Lior
+#17,Support,Maïwenn,Challenger - 4 LP,52.9,245 / 218,DitIsDonny
+#18,ADC,Kadlin,Diamond I - 96 LP,57.6,377 / 277,Jinxnator
+#19,Support,strawberry cow,Diamond I - 86 LP,55.2,267 / 217,annauwumarie
+#20,Support,Kutcher,Diamond I - 81 LP,55.5,287 / 230,Terra
+#21,Support,iEnygma,Diamond I - 78 LP,53.8,239 / 205,EG Voutocu
+#22,Mid,WoO0oW,Diamond I - 77 LP,54.0,176 / 150,Mac
+#23,Mid,RunningDown,Diamond I - 65 LP,53.6,201 / 174,Freezy
+#24,ADC,DoubleDouble,Diamond I - 65 LP,52.8,347 / 310,Player2225
+#25,Jungle,Dr4gg4r,Diamond I - 65 LP,54.3,226 / 190,DAYLlGHT
+#26,Top,Ezio,Diamond I - 64 LP,54.3,238 / 200,TexeQ
+#27,ADC,AJDG Angel,Diamond I - 63 LP,57.6,239 / 176,Lightandhope
+#28,Top,Rywanna,Diamond I - 59 LP,52.4,241 / 219,Kythaela
+#29,Top,Doran,Diamond I - 58 LP,50.4,198 / 195,TheStriker9
+#30,Support,Import Slot 1,Diamond I - 57 LP,52.3,246 / 224,CoachYouGen
+#31,Mid,Totoro the duck,Diamond I - 57 LP,55.9,250 / 197,Kuury
+#32,Jungle,time,Diamond I - 54 LP,54.1,243 / 206,schlafen
+#33,ADC,Texe,Diamond I - 52 LP,53.8,235 / 202,TexeQ
+#34,Mid,Person201,Diamond I - 52 LP,54.6,243 / 202,LumiFumi
+#35,Top,SmackyB,Diamond I - 49 LP,55.5,249 / 200,Byumbi
+#36,Top,Mr The Rat King,Diamond I - 47 LP,52.2,157 / 144,DangerousMolerat
+#37,Support,Tratz,Diamond I - 47 LP,55.4,258 / 208,Tangil
+#38,Top,Rio,Diamond I - 47 LP,51.1,169 / 162,azure43
+#39,Mid,Seirilyvia,Diamond I - 42 LP,53.2,249 / 219,Kythaela
+#40,Top,Bilbo Saggins,Diamond I - 42 LP,50.8,190 / 184,ImagineBaggins
+#41,Top,Destructoid,Diamond I - 40 LP,53.8,300 / 258,YoloMedic
+#42,ADC,Test4,Diamond I - 39 LP,52.6,221 / 199,test
+#43,Jungle,MexicanPidgeon,Diamond I - 39 LP,49.5,165 / 168,LumiFumi
+#44,Jungle,Bibi,Diamond I - 33 LP,54.8,223 / 184,Troeton
+#45,Support,GeT OutFlayed,Diamond I - 32 LP,51.8,176 / 164,Mac
+#46,Top,Hewkii,Diamond I - 30 LP,52.7,137 / 123,Toa
+#47,Mid,PepeCool,Diamond I - 29 LP,53.0,308 / 273,LS
+#48,ADC,Jotaro Kujo,Diamond I - 27 LP,55.9,284 / 224,Ithirul
+#49,ADC,TPOPIS,Diamond I - 26 LP,52.4,267 / 243,Byumbi
+#50,Mid,Byumbert,Diamond I - 26 LP,52.2,225 / 206,Byumbi
+#51,Support,Truth,Diamond I - 25 LP,52.2,328 / 300,Player2225
+#52,Support,E-girl,Diamond I - 25 LP,53.1,206 / 182,Dayspring
+#53,Top,Aryze,Diamond I - 23 LP,53.1,247 / 218,sanchesmemo
+#54,ADC,F,Diamond I - 23 LP,52.8,130 / 116,Masquerade
+#55,ADC,Kali,Diamond I - 21 LP,50.7,266 / 259,YoloMedic
+#56,Jungle,Bilbo Waggins,Diamond I - 21 LP,53.9,202 / 173,ImagineBaggins
+#57,Top,Kritz,Diamond I - 20 LP,56.1,239 / 187,polop900
+#58,Support,Abasaka,Diamond I - 20 LP,53.1,180 / 159,Navnexx
+#59,Mid,Phantom,Diamond I - 19 LP,55.1,299 / 244,Kyzent
+#60,Top,DoinB,Diamond I - 18 LP,54.5,350 / 292,LordArtos
+#61,Jungle,Blaze,Diamond I - 17 LP,55.7,245 / 195,Hit_Critical
+#62,Mid,kittyperry,Diamond I - 17 LP,54.0,256 / 218,GamerGirls
+#63,ADC,Sylmarae,Diamond I - 16 LP,51.8,293 / 273,Kythaela
+#64,Jungle,Test2,Diamond I - 15 LP,50.9,202 / 195,test
+#65,Top,DangerousMolerat,Diamond I - 14 LP,50.6,175 / 171,Blade1284
+#66,Mid,Ne0,Diamond I - 14 LP,51.1,215 / 206,DAYLlGHT
+#67,Jungle,Kongu,Diamond I - 14 LP,53.2,160 / 141,Toa
+#68,Jungle,Ceasarna,Diamond I - 13 LP,53.1,191 / 169,iampvm
+#69,Support,Test5,Diamond I - 13 LP,53.1,225 / 199,test
+#70,Jungle,HLE Viper,Diamond I - 13 LP,50.2,167 / 166,Tokyo Smurfer
+#71,Jungle,cblol00002,Diamond I - 13 LP,50.5,204 / 200,cblol
+#72,Support,Fells,Diamond I - 12 LP,50.3,188 / 186,Fells
+#73,Top,Sparda,Diamond I - 11 LP,56.8,155 / 118,Yzeerf
+#74,Mid,TES Jackeylove,Diamond I - 11 LP,54.4,193 / 162,Tokyo Smurfer
+#75,Mid,MidBot,Diamond I - 11 LP,51.0,210 / 202,TangilBOT
+#76,Top,Test1,Diamond I - 10 LP,51.9,195 / 181,test
+#77,Top,Dumbass,Diamond I - 9 LP,54.2,307 / 259,Key
+#78,Support,Kapp Wampie,Diamond I - 9 LP,51.3,178 / 169,Plankuaa
+#79,Support,LuluOTP,Diamond I - 6 LP,52.3,205 / 187,LuvLetter
+#80,Jungle,EG Voutocu,Diamond I - 6 LP,53.6,236 / 204,EG Voutocu
+#81,Mid,BottleCaps,Diamond I - 6 LP,51.2,213 / 203,Phost
+#82,Support,Keria,Diamond I - 4 LP,51.4,303 / 287,TheStriker9
+#83,Mid,Star Player,Diamond I - 4 LP,51.2,192 / 183,CoachYouGen
+#84,Support,Egirl champs onl,Diamond I - 3 LP,52.5,262 / 237,Spooky
+#85,Mid,Salt,Diamond I - 3 LP,52.4,220 / 200,JMENDOZA
+#86,Mid,strawberry frog,Diamond I - 3 LP,52.7,237 / 213,annauwumarie
+#87,Jungle,jungle gap,Diamond I - 2 LP,52.2,203 / 186,crithitfail
+#88,Jungle,Sparrow,Diamond I - 1 LP,51.4,237 / 224,Anbeeld
+#89,Support,BoquitaCampeon,Diamond I - 1 LP,49.9,185 / 186,Jon_14
+#90,Jungle,Gnima,Diamond I - 1 LP,54.1,329 / 279,YoloMedic
+#91,Top,TopBot,Diamond I - 0 LP,49.9,199 / 200,TangilBOT
+#92,Mid,Frethborn,Diamond I - 0 LP,52.5,271 / 245,Jinxnator
+#93,ADC,4,Diamond II - 99 LP,56.9,119 / 90,Espeon
+#94,ADC,Gwyn,Diamond II - 96 LP,50.6,222 / 217,Fells
+#95,Support,Tiriana,Diamond II - 95 LP,55.3,326 / 263,Kythaela
+#96,Mid,DOINB RYZE HACK,Diamond II - 94 LP,49.8,207 / 209,wiksonix
+#97,Mid,Zero Mechanics,Diamond II - 93 LP,52.6,161 / 145,PlaysRengarSupp
+#98,Jungle,Dontgank,Diamond II - 93 LP,53.8,282 / 242,Key
+#99,ADC,Vortex_c4,Diamond II - 92 LP,51.9,250 / 232,LumiFumi
+#100,Top,Amouranth,Diamond II - 92 LP,50.7,283 / 275,Simp
